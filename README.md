@@ -1,4 +1,4 @@
-# Desafio técnico Best minds
+# Desafio técnico Best Minds
 
 Esse projeto foi desenvolvido para um desafio técnico da empresa: Best Minds e se trata de um programa de sign in e sign up onde devemos permitir que seja criado um usuário no sistema, com os campos mínimos de cadastro normal, o usuário deve ser notificado que o cadastro foi concluído com sucesso e, a partir deste ponto, ser possível executar login. 
 
